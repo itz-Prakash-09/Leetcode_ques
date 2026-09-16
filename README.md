@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2614-prime-in-diagonal](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/2614-prime-in-diagonal) |
 | [3115-maximum-prime-difference](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/3115-maximum-prime-difference) |
+| [3483-unique-3-digit-even-numbers](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
@@ -35,4 +36,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2614-prime-in-diagonal](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/2614-prime-in-diagonal) |
+## Hash Table
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/3483-unique-3-digit-even-numbers) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
