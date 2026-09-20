@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/0241-different-ways-to-add-parentheses) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1922-count-good-numbers](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/1922-count-good-numbers) |
 | [2523-closest-prime-numbers-in-range](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/2523-closest-prime-numbers-in-range) |
 | [2614-prime-in-diagonal](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/2614-prime-in-diagonal) |
 | [3115-maximum-prime-difference](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/3115-maximum-prime-difference) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/0241-different-ways-to-add-parentheses) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1922-count-good-numbers](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/1922-count-good-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
