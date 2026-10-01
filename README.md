@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/0020-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/0241-different-ways-to-add-parentheses) |
 ## Dynamic Programming
 |  |
@@ -80,5 +81,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/0020-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/0241-different-ways-to-add-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
