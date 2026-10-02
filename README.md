@@ -68,10 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/0022-generate-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/0241-different-ways-to-add-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/0022-generate-parentheses) |
 | [0198-house-robber](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/0241-different-ways-to-add-parentheses) |
 ## Memoization
@@ -82,9 +84,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/0022-generate-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/0241-different-ways-to-add-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/0020-valid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
