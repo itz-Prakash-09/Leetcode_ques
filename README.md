@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/0051-n-queens) |
 | [0198-house-robber](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/0198-house-robber) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2614-prime-in-diagonal](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/2614-prime-in-diagonal) |
@@ -94,4 +95,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
