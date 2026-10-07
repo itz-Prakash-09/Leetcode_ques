@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/0051-n-queens) |
 | [0198-house-robber](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/0198-house-robber) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/0052-n-queens-ii) |
