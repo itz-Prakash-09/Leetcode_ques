@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/0051-n-queens) |
 | [0198-house-robber](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/0198-house-robber) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -41,10 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/0037-sudoku-solver) |
 | [2614-prime-in-diagonal](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/2614-prime-in-diagonal) |
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/0037-sudoku-solver) |
 | [3483-unique-3-digit-even-numbers](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
@@ -95,11 +98,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/0052-n-queens-ii) |
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/0052-n-queens-ii) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
