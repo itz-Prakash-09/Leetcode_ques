@@ -75,11 +75,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/0131-palindrome-partitioning) |
 | [0241-different-ways-to-add-parentheses](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/0241-different-ways-to-add-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/0241-different-ways-to-add-parentheses) |
 ## Memoization
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/0052-n-queens-ii) |
+| [0131-palindrome-partitioning](https://github.com/itz-Prakash-09/Leetcode_ques/tree/master/0131-palindrome-partitioning) |
 ## Algorithm X
 |  |
 | ------- |
